@@ -1,0 +1,28 @@
+---
+title: Synecdoche, New York
+author: Mohamed Marhraoui
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: true
+mainfont: Times New Roman
+abstract: "This is my abstract."
+bibliography: bib.bib
+csl: mla8.csl
+---
+
+# Introduction
+
+After its release in 2008 with a running time of 124 minutes, Charlie Kaufman's directorial debut _Synecdoche, New York_ ignited an ambivalent range of reviews. As The Observer's own Rex Reed writes: "no matter how bad you think the worst movie ever made ever was, you have not seen _Synecdoche, New York_."^[See @reed_2008.], Roger Ebert declares _Synecdoche_ film of the decade^[See @ebert_2009.] . It has been described as "beautifully realised"^[See @baughan_2009.]; "frustrating"^[See @johnson_2008]; and "achingly, achingly sad."^[See @chocano_2008] The film garnered a critics score of 68% and an audience score of 71% on Rotten Tomatoes^[The critics score is also known as Tomatometer]@rotten_tomatoes
+
+
+The film was largely unprofitable during its theatrical run.
+
+
+# Literature Review
+
+Here goes the literature review.
+
+\pagebreak
+
+# References
