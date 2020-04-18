@@ -8,6 +8,9 @@ mainfont: Times New Roman
 abstract: "This is my abstract."
 bibliography: bib.bib
 csl: mla8.csl
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
 ---
 
 # Introduction
