@@ -61,3 +61,4 @@ output: pdf_document
 # Lexicon
 - unrelenting
 - vignettes
+- his own decay
