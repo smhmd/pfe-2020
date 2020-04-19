@@ -7,7 +7,7 @@ output:
 mainfont: Times New Roman
 abstract: "This is my abstract."
 bibliography: bib.bib
-csl: mla8.csl
+csl: modern-language-association.csl
 header-includes:
     - \usepackage{setspace}
     - \doublespacing
