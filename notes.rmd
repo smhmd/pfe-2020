@@ -38,6 +38,8 @@ output: pdf_document
 - Cinematography: Every place is like a painting.
 
 # Analysis
+- https://www.thefreelibrary.com/Stages+of+life%3A+art%2C+time+and+meaning+in+Synecdoche%2C+New+York.-a0459986520 Kaufman cares about titles.
+
 - Descartes notes that a wax could be turned into a liquid but we would still think it's the same thing relying on reason rather than empiricism.
 
 - A hammer existence doesn't make sense without nails, tables, chairs, and wood. Likewise, Caden's life started to lose meaning the more he loses key people in his life.
