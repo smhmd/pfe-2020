@@ -13,6 +13,8 @@ header-includes:
     - \doublespacing
 ---
 
+\pagebreak
+
 # Introduction
 
 | After its release in 2008 with a running time of 124 minutes, Charlie Kaufman's directorial debut, _Synecdoche, New York_, ignited an ambivalent range of reviews. As The Observer's own Rex Reed writes: "no matter how bad you think the worst movie ever made ever was, you have not seen _Synecdoche, New York_."^[See @reed_2008.], Pulitzer Prize winner Roger Ebert declares _Synecdoche_ film of the decade^[See @ebert_2009.] . It has been described as "beautifully realised"^[See @baughan_2009.]; "frustrating"^[See @johnson_2008]; and "achingly, achingly sad"^[See @chocano_2008] by critics. The film garnered a critics score of 68% and an audience score of 71% on Rotten Tomatoes ^[The critics score is also known as Tomatometer. @rotten_tomatoes.], which illustrates a degree of polarization, perhaps best summarized in Peter Bradshaw's review^[See @bradshaw_2009.], where he states: "The film is either a masterpiece or a massively dysfunctional act of self-indulgence and self-laceration."
