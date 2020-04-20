@@ -27,6 +27,8 @@ Summarizing _Synecdoche, New York_ without threading into analysis is quiet chal
 
 The movie explores themes such as time, existentialism, solipsism, etc. However, the most prominent theme in the movie is death, even though the movie itself would disagree as Sammy, Caden's own doppelgänger, affirms that "This is not a play about dating. It's about death", to which Caden replies: "It is a play about dating. It's not a play just about death. It's about everything. Dating, birth, death, life, family. All that."
 
+_Synecdoche, New York_ was largely unprofitable during its theatrical run, generating a total of 4.47 million USD while having a production budget of 20 million USD ^[See Box Office Mojo entry for _Synecdoche, New York_ -@box_office_mojo.]. This will be further discussed at a later section.
+
 # Literature Review
 
 Here goes the literature review.
