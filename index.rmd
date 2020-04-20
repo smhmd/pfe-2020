@@ -4,14 +4,17 @@ author: Mohamed Marhraoui
 output:
   pdf_document:
     latex_engine: xelatex
-mainfont: Times New Roman
-abstract: "This is my abstract."
+#  html_document:
+#    toc: true
+#    toc_float: true
+#mainfont: Iosevka SS03
+#abstract: "This is my abstract.\\par \\textbf{Keywords:} Film Analysis, Postmodernity, Theater."
 bibliography: bib.bib
 csl: modern-language-association.csl
-header-includes:
-    - \usepackage{setspace}
-    - \doublespacing
-indent: true
+#header-includes:
+#    - \usepackage{setspace}
+#    - \doublespacing
+#indent: true
 ---
 
 \pagebreak
