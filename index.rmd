@@ -25,11 +25,25 @@ indent: true
 
 After its premiere at the 61^st^ Annual Cannes Film Festival on May 23, 2008, with a running time of 124 minutes, Charlie Kaufman's directorial debut, _Synecdoche, New York_, triggered an ambivalent range of reviews. As The Observer's own Rex Reed writes: "no matter how bad you think the worst movie ever made ever was, you have not seen _Synecdoche, New York_," ^[@reed_2008.] Pulitzer Prize winner Roger Ebert declares _Synecdoche_ ^[_Synecdoche, New York_ will often be referred to as _Synecdoche_ throughout the paper.] film of the decade ^[@ebert_2009.]. The film has garnered a critics score of 68% and an audience score of 71% on Rotten Tomatoes ^[The critics score is also known as Tomatometer. See @rotten_tomatoes.], which illustrates a degree of polarization, perhaps best summarized in Peter Bradshaw's review ^[@bradshaw_2009.], where he states: "The film is either a masterpiece or a massively dysfunctional act of self-indulgence and self-laceration."
 
-Summarizing _Synecdoche, New York_ without threading into analysis is quiet challenging as some scenes transform the plot under examination. The story follows theater director Caden Cotard (Philip Seymour Hoffman). Obsessed with his own mortality, Caden's wife Adele (Catherine Keener) leaves him to pursue a painting career in Berlin, taking their daughter Olive (Sadie Goldstein) with her. Caden, then, receives a MacArthur Fellowship which he intends to use to create "something big and true and tough"and "finally put [his] real self into something" ^[@kaufman_2008 00:36:55 -- 00:37:06.], which, in turn, develops into a spatially impossible, mind-bending creation, where they fit a flying zeppelin along side a replica of New York City in a warehouse.
+## Director
+
+Charles Stuart Kaufman is an American screenwriter and director. Started as a television writer, Kaufman achieved critical acclaim and recognition for writing _Being John Malkovich_ ^[@jonze_1999.] and went on to be responsible for scripts of other distinguished films such as _Adaptation_ ^[@jonze_2002.] and _Eternal Sunshine of the Spotless Mind_ ^[@gondry_2004.], which earned him an Academy Award in 2004.
+
+Kaufman is unique in that he is a screenwriter that is credited on an equal footing as the directors in his films if not slightly more. _Eternal Sunshine of the Spotless Mind_, for instance, is more regarded a "Charlie Kaufman film" than it is Michel Gondry's. Most people would have a hard time attributing Kaufman films to either Gondry or Spike Jonze, Kaufman's other lifelong collaborator. That goes to show how much of a distinctive voice he is in an increasingly non-reading world.
+
+Kaufman's directorial debut, _Synecdoche, New York_, was largely unprofitable during its theatrical run, due to a globally crashing economy, generating a total of 4.47 million USD while having a production budget of 20 million USD ^[@box_office_mojo.]. Coupled with the fact that Charlie refuses to indulge in formulaic Hollywood screenwriting, _Synecdoche's_ financial failure set the ambitious now-director to a better part of a decade of stagnation.
+
+## Plot
+
+Summarizing _Synecdoche, New York_ without threading into the analysis is quite challenging as some scenes transform the plot under examination. The story follows theater director Caden Cotard (Philip Seymour Hoffman). Obsessed with his own mortality, Caden's wife Adele (Catherine Keener) leaves him to pursue a painting career in Berlin, taking their daughter Olive (Sadie Goldstein) with her. Caden, then, receives a MacArthur Fellowship which he intends to use to create "something big and true and tough" and "finally put [his] real self into something" ^[@kaufman_2008: 00:36:55 -- 00:37:06.], which, in turn, develops into a spatially impossible, mind-bending creation, where they fit a flying zeppelin in a warehouse in an infinitely nested full-sized replicas of New York City.
+
+## Structure
+
+Screenwriters often compare writing movie scripts to building houses, illustrating the need for a complete narrative and an easily identifiable conflict in the story. At a first glance, _Synecdoche, New York_ utilizes an internal Man versus Self conflict, but the case could be made for Man versus Nature and Man versus Fate conflicts (Caden's own ailments, decay, and eventual demise). These supposed conflicts are never overcome in the story, which, arguably, renders them less of literary elements and more of a byproduct of an honest account of a human life. Kaufman rejects
+
+## Themes
 
 The movie explores themes such as time, existentialism, solipsism, etc. However, the most prominent theme in the movie is death, even though the movie itself would disagree as Sammy, Caden's own doppelgänger, affirms that "This is not a play about dating. It's about death", to which Caden replies: "It is a play about dating. It's not a play just about death. It's about everything. Dating, birth, death, life, family. All that."
-
-_Synecdoche, New York_ was largely unprofitable during its theatrical run, generating a total of 4.47 million USD while having a production budget of 20 million USD ^[See Box Office Mojo entry for _Synecdoche, New York_ -@box_office_mojo.]. This will be further discussed at a later section.
 
 # Literature Review
 
