@@ -1,10 +1,3 @@
----
-title: Notes
-author: Mohamed Marhraoui
-mainfont: Times New Roman
-output: pdf_document
----
-
 # Lit Rev
 - postmodernism is hard to define
 
@@ -24,6 +17,10 @@ output: pdf_document
 
 - Orange Clockwork: blood is more real in film than it is in the world.
 
+- Marvel Cinematic Universe could be analyzed through a philosophical lens, but that would be merely begging the question.
+
+- For example fictitious stories will have grounds in something real whereas our real life can be somewhat staged from ideas brought to us by fiction.
+
 # Description - Synopsis
 - The movie has avant-garde aspects that reference reality (art imitates life) and map directly to it. The protangonist's first name: Caden, is a clear ....
 
@@ -38,7 +35,18 @@ output: pdf_document
 - Cinematography: Every place is like a painting.
 
 # Analysis
-- https://www.thefreelibrary.com/Stages+of+life%3A+art%2C+time+and+meaning+in+Synecdoche%2C+New+York.-a0459986520 Kaufman cares about titles.
+
+- Harold Pinter's death is a reference to a Sky News blooper.
+
+- https://the-artifice.com/synecdoche-new-york-kaufman-modern-art/
+    Postmodern angle: Cotard is played better than he can and is outperformed by his own doppelgänger. Caden is less real than his own creation.
+    "He cannot capture any universal truths, no matter how much of the universe he has stuffed into his play project."
+    Art is ultimately unsatisfying.
+
+- https://www.thefreelibrary.com/Stages+of+life%3A+art%2C+time+and+meaning+in+Synecdoche%2C+New+York.-a0459986520
+    Kaufman cares about titles.
+
+- Metafiction: the actor at the end of a life of despair quote.
 
 - Descartes notes that a wax could be turned into a liquid but we would still think it's the same thing relying on reason rather than empiricism.
 
@@ -50,6 +58,25 @@ output: pdf_document
 
 - Disappointment of Adele. Song for Caden. Theater being the place where Caden gets to voice his real self through Sammy.
 
+- https://youtu.be/h_-xiPLhaSk?t=1930
+    "Clever gets in the way of being raw" -- Charlie Kaufman
+
+- Sammy saying what Caden just thought is the copy overtaking the reality. Caden gets what he wants in that the play reveals things, but it's not to his advantage.
+
+- Claire directs her speech to Sammy as a way to communicate with Caden. Postmodern, eh? Hyperreality and shit.
+
+- Sammy being attracted to Hazel is the copy taking over. Hazel takes on Sammy to get to Caden, in return. Caden protests.
+
+- Caden tries to kill himself over Hazel being in a relationship. Sammy does the same thing.
+
+- Why did Caden not cast someone to save Sammy?
+
+- Maria has known Olive since she was a baby, that's creepy.
+
+- Maria poisoned Olive through her tattoos that are killing her but also putting ideas in her head about her father's homosexuality and abandonment.
+
+- Death of a Salesman is about being loved and being known.
+
 # Criticism
 - Caden and Hazel returning to Syne.. their city for Hazel to die in the fire is a bit of annoyance.
 
@@ -57,6 +84,8 @@ output: pdf_document
 
 # Conclusion
 - Should I discuss the film’s merits on a technical level? Should I address themes and how they are tackled via visual and narrative motifs? How much backstory should I present, or withhold? Should I focus on the unique structure of the film, which plays with our concept of time and how it is perceived as we age?
+
+- I love this movie, watch it once or twice a year at least. It was incredibly depressing and haunting at first (well.. it still can be), but i find a lot of comfort in it now too. Synecdoche does a lot of things well, but for me it's particularly good at reminding me that my struggles aren't unique, and when i feel the most alone, the movie really helps me feel a sense of connectedness.
 
 # Lexicon
 - unrelenting
