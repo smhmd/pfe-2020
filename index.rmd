@@ -12,7 +12,7 @@ output:
     toc: true
     toc_float: true
 mainfont: Iosevka SS03
-abstract: "This is my abstract.\\par \\textbf{Keywords:} Film Analysis, Postmodernity, Theater."
+abstract: "This is my abstract.\\par \\textbf{Keywords:} Film Analysis"
 header-includes:
     - \usepackage{setspace}
     - \doublespacing
