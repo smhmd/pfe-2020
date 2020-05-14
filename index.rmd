@@ -1,5 +1,5 @@
 ---
-title: Synecdoche, New York
+title: "\\emph{Synecdoche, New York}"
 author: Mohamed Marhraoui
 bibliography: bib.bib
 csl: chicago/chicago-fullnote-bibliography-with-ibid.csl
