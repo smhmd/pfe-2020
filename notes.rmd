@@ -1,65 +1,21 @@
-# Lit Rev
-- postmodernism is hard to define
-
-- Postmodernism is hard to define and is a set of rhetorical practices using a multitude of concepts such as differences, repetition, the trace, the simulacrum, and hyperreality to destabilize other concepts such as presence, identity, historical profess, epistemic certainty, and the univocity of meaning.
-
-- Habermas argues that postmodernism contradicts itself through self-refernce, and notes that postmodernists presuppose concepts they otherwise seek to undermine, e.g. freedom, subjectivity, or creativity.
-
-- Postmodernism is a rhetorical application of strategies employed by avant-garde of the nineteenth and twentieth centuries, an avant-garde that made possible by modernity separating artistic values from science and politics in the first place.
-
-- Kant's Copernican revolution: We cannot know things in themselves and that objects of knowledge must conform to out faculties of representation, creating truths of fact and truths of , which kick-started the analytic/continental division in philosophy.
-
-- I would argue that a postmodern film would inevitably have modern shell to house the inconsitencies and be commertially viable.
-
-- The real is which can be simulated, xeroxed, and copied. A holograph of a body (Paul Alan, 2 Pac, Zappa); Intercourse, through pornography or virtual reality with a ideal, rendering intimate relations technological and simulate-able.
-
-- kid screaming at a video game. parent from a different modern reality that doesn't involve screaming at machines. Why not scream at machine?
-
-- Orange Clockwork: blood is more real in film than it is in the world.
-
-- Marvel Cinematic Universe could be analyzed through a philosophical lens, but that would be merely begging the question.
-
 - For example fictitious stories will have grounds in something real whereas our real life can be somewhat staged from ideas brought to us by fiction.
 
 # Description - Synopsis
-- The movie has avant-garde aspects that reference reality (art imitates life) and map directly to it. The protangonist's first name: Caden, is a clear ....
-
-- everyone's death in Synecdoche is brutal
-
-- Summarizing Synecdoche without threading into analysis is quiet challenging as some scenes transform the plot under examination.
 
 - As (theater 2011) points out, the production has to be included if Caden wishes to portray his life realistically.
 
-- It's been described as a writer's wet dream with references to playwrights and novelists.
-
-- Cinematography: Every place is like a painting.
-
 # Analysis
 
-- Harold Pinter's death is a reference to a Sky News blooper.
+- The realism of the play starts threating the realism of Caden's life as they try discover what might happen if they did something differently (specifically, Tammy's suggestion).
+
+- The name Cotard is also a reference to a character in Marcel Proust’s literary epic, In Search of Lost Time. Proust’s Dr. Cottard in volume one, Swann’s Way, displays some of Caden Cotard’s characteristics: “Dr. Cottard was never quite certain of the tone in which he ought to reply to any observation, or whether the speaker was jesting or in earnest.” (confessions of an original mind 133)
 
 - https://the-artifice.com/synecdoche-new-york-kaufman-modern-art/
     Postmodern angle: Cotard is played better than he can and is outperformed by his own doppelgänger. Caden is less real than his own creation.
     "He cannot capture any universal truths, no matter how much of the universe he has stuffed into his play project."
     Art is ultimately unsatisfying.
 
-- https://www.thefreelibrary.com/Stages+of+life%3A+art%2C+time+and+meaning+in+Synecdoche%2C+New+York.-a0459986520
-    Kaufman cares about titles.
-
-- Metafiction: the actor at the end of a life of despair quote.
-
-- Descartes notes that a wax could be turned into a liquid but we would still think it's the same thing relying on reason rather than empiricism.
-
-- A hammer existence doesn't make sense without nails, tables, chairs, and wood. Likewise, Caden's life started to lose meaning the more he loses key people in his life.
-
-- Caden's play doesn't have a title.
-
-- People appreciate Caden's play, but those most close to him don't.
-
 - Disappointment of Adele. Song for Caden. Theater being the place where Caden gets to voice his real self through Sammy.
-
-- https://youtu.be/h_-xiPLhaSk?t=1930
-    "Clever gets in the way of being raw" -- Charlie Kaufman
 
 - Sammy saying what Caden just thought is the copy overtaking the reality. Caden gets what he wants in that the play reveals things, but it's not to his advantage.
 
@@ -71,24 +27,33 @@
 
 - Why did Caden not cast someone to save Sammy?
 
-- Maria has known Olive since she was a baby, that's creepy.
-
 - Maria poisoned Olive through her tattoos that are killing her but also putting ideas in her head about her father's homosexuality and abandonment.
-
-- Death of a Salesman is about being loved and being known.
 
 - A cynical, but original interpretation of the character Ellen is is that she was invented by Adele and Maria to justify Caden's disappearance from Olive's life to her. It was Adele who drew Caden as Ellen and who asked one of her neighbors to hand the -- YMS's gray and flower analysis and how Ellen is of Adele and Maria.
 
-- As Caden goes in warehouse inside a warehouse, Mad's books become sadder and realer. 4th layer of warehouse and deepest will ever see marks Mad's "I don't feel well."
+- As Caden goes in warehouse inside a warehouse, Madeline's books become sadder and realer. 4th layer of warehouse and deepest will ever see marks Madeline's "I don't feel well."
 
 - CADEN Everyone's dreams in all those apartments.  All those secrets we'll never know.  That's the truth -- The film's message.
 
+- German accent talking about autumn as “the beginning of the end.”
+
+- 7:45 to 7:45 is evidence that Caden has been sleeping and having a dream.
+
+- Caden saw Sammy as a projection of himself up until Sammy dies. Caden, then, allows for the possibility that Sammy had a life outside of his duties as Caden and thus, he explains that "none of those are extra..." -- "I know how to do the play now": A Part of Willy Loman in "Synecdoche, New York", 33
+
+- Millicent removes Caden-lookalike from the stage saying "your scene is over," shifting the focus from Caden and his love affairs and giving voice to the pastor who successfully embodies the universality Caden has been wanting to achieve.
+
+# Characters
+
+Adele: carefree, bohemian
+Madeline: professes in product placement.
+
 # Criticism
-- Caden and Hazel returning to Syne.. their city for Hazel to die in the fire is a bit of annoyance.
 
 - If you're gonna be ambitious and imbue your work with cryptic meanings that you have to decipher and pay close attention to and rewatch scenes and continue to reconsider and study it, you got to give people something. With The Matrix, it's bad ass fight scenes. With Synecdoche, they give you melancholy and despair because of your impending death. (a candy to let the broccoli go down a little bit easier.) What Synecdoche "gives" (for a mild watch) isn't a broad experience for a mainstream audience but the experience for playwrights, writers, and artists, where you are trying to build something beautiful to stave off the impending doom of death.
 
 # Conclusion
+
 - Should I discuss the film’s merits on a technical level? Should I address themes and how they are tackled via visual and narrative motifs? How much backstory should I present, or withhold? Should I focus on the unique structure of the film, which plays with our concept of time and how it is perceived as we age?
 
 - I love this movie, watch it once or twice a year at least. It was incredibly depressing and haunting at first (well.. it still can be), but i find a lot of comfort in it now too. Synecdoche does a lot of things well, but for me it's particularly good at reminding me that my struggles aren't unique, and when i feel the most alone, the movie really helps me feel a sense of connectedness.
@@ -98,3 +63,4 @@
 - vignettes
 - his own decay
 - rheumy eyes
+- eureka moment
