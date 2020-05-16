@@ -19,3 +19,7 @@ chicago/chicago-library-list.csl
 chicago/chicago-note-bibliography-16th-edition.csl
 chicago/chicago-note-bibliography-with-ibid.csl
 chicago/chicago-note-bibliography.csl
+index.aux
+index.toc
+index.tex
+index.log
