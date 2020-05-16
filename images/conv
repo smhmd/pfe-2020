@@ -3,7 +3,7 @@ aw=2.35
 ah=1
 
 in="$1"
-out="out-$1"
+out="$1"
 
 wid=`convert "$in" -format "%[w]" info:`
 hei=`convert "$in" -format "%[h]" info:`
