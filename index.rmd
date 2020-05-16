@@ -5,13 +5,11 @@ bibliography: bib.bib
 csl: chicago/chicago-fullnote-bibliography-with-ibid.csl
 output:
   pdf_document:
-    number_sections: true
     latex_engine: xelatex
+    number_sections: true
     toc: true
     toc_depth: 2
-  html_document:
-    toc: true
-    toc_float: true
+#  html_document:
 mainfont: Iosevka SS03
 abstract: "This is my abstract.\\par \\emph{Keywords:} Film Analysis; Charlie Kaufman; Postmodern film.\\thispagestyle{empty}\\newpage"
 header-includes:
@@ -21,6 +19,9 @@ header-includes:
   - \pretitle{\begin{center}
     \includegraphics[width=2in,height=2in]{logo.jpeg}\LARGE\\}
   - \posttitle{\end{center}}
+  - \usepackage{subcaption}
+  - \usepackage{caption}
+  - \usepackage{biblatex-chicago}
 indent: true
 ---
 
@@ -42,7 +43,7 @@ After its premiere at the 61^st^ Annual Cannes Film Festival on May 23, 2008, wi
 
 Charles Stuart Kaufman is an American screenwriter and director. Started as a television writer, Kaufman achieved critical acclaim and recognition for writing _Being John Malkovich_ ^[@jonze_1999.] and went on to be responsible for scripts of other distinguished films such as _Adaptation_ ^[@jonze_2002.] and _Eternal Sunshine of the Spotless Mind_ ^[@gondry_2004.], which earned him an Academy Award in 2004.
 
-Kaufman is unique in that he is a screenwriter that is credited on an equal footing as the directors in his films if not slightly more. _Eternal Sunshine of the Spotless Mind_, for instance, is more regarded a "Charlie Kaufman film" than it is Michel Gondry's. Most people would have a hard time attributing Kaufman films to either Gondry or Spike Jonze, Kaufman's other lifelong collaborator. That goes to show how much of a distinctive voice he is in an increasingly non-reading world.
+Kaufman is unique in that he is a screenwriter that is credited on an equal footing as the directors in his films if not slightly more. _Eternal Sunshine of the Spotless Mind_, for instance, is more regarded as a "Charlie Kaufman film" than it is Michel Gondry's. Most people would have a hard time attributing Kaufman films to either Gondry or Spike Jonze, Kaufman's other lifelong collaborator. That goes to show how much of a distinctive voice he is in an increasingly non-reading world.
 
 Kaufman's directorial debut, _Synecdoche, New York_, was largely unprofitable during its theatrical run, due to a globally crashing economy, generating a total of 4.47 million USD while having a production budget of 20 million USD ^[@box_office_mojo.]. Coupled with the fact that Charlie refuses to indulge in formulaic Hollywood screenwriting, _Synecdoche's_ financial failure set the ambitious now-director to a better part of a decade of stagnation.
 
@@ -74,34 +75,39 @@ Caden, now, remarks that he needs someone to play him. Millicent, who plays Elle
 
 At Millicent's direction, Caden puts on an earpiece that she uses to command every move of his. She instructs him to wipe himself, clean, walk, and have dreams. As he walks through abandoned, body-filled warehouse after warehouse, he meets Ellen's mother and apologizes for disappointing her terribly, and asserts that "[he] knows how to do the play now," ^[@kaufman_2008, 02:00:03.] and by Millicent's direction, he dies.
 
-# Literature Review
+# Review
 
 ## Structure and Literary Devices
 
-Kaufman -- similar to his subject, Caden -- sets out to explore, as honestly as possible, the essence of being. At a first glance, the conflict in _Synecdoche_ is an internal _Man versus Self_ conflict, but the case could be made for _Man versus Nature_ and _Man versus Fate_ conflicts (Caden's own ailments, decay, and eventual demise). These supposed conflicts are never overcome in the story, which, arguably, renders them less of literary elements and more of a by-product of an honest account of a human life.
+Kaufman -- similar to his subject, Caden -- sets out to explore, as honestly as possible, the essence of being. At a first glance, the conflict in _Synecdoche_ is an internal _Man versus Self_ conflict, but the case could be made for _Man versus Nature_ and _Man versus Fate_ conflicts (Caden's own ailments, decay, and eventual demise). These supposed conflicts are never overcome in the story, which, arguably, renders them less of literary elements and more of a by-product of an honest account of human life.
 
 As Burgass notes that "postmodern fiction is often and appropriately characterized by a concern with ontological categories, and exploration of the boundaries between fact and fiction, the world and the text," ^[@burgass_2000, 177.] Kaufman, evidently, concerns himself with the ontological, blurs the line between fact and fiction (e.g., Olive's self-writing diary, Madeline's self-erasing book, and Hazel's burning house, etc.), utilizes metafictional elements, and proceeds to deconstructs linear time. Therefore, his story is a postmodern one.
 
+## Criticism
+
+_Synecdoche, New York_ has been criticized heavily for its non-traditional structure and inaccessibility. Contrasted by _The Matrix Reloaded_ ^[@wachowski_2003.], Jared Bauer explains that _Synecdoche_ is "more fun to think about and research than it is to watch," and that "if [Kaufman] is going to imbue [his] work with all these cryptic meanings . . . [he] got to give people something. With _The Matrix_, it's badass fight scenes. With [_Synecdoche, New York_], they give you nothing."
 
 # Analysis
 
-_Synecdoche, New York_ explores themes of existentialism, solipsism, passage of time, and life choices. However, the most prominent theme in the movie is death; even though the movie itself would disagree as Sammy, Caden's own doppelgänger, affirms that "This is not a play about dating. It's about death," to which Caden replies: "It is a play about dating. It's not a play just about death. It's about everything. Dating, birth, death, life, family. All that." ^[@kaufman_2008, 01:23:40--1:24:06.]
+_Synecdoche, New York_ explores themes of solipsism, time passage, and life choices. However, the most prominent theme in the movie is death; even though the movie itself would disagree as Sammy, Caden's own doppelgänger affirms that "This is not a play about dating. It's about death," to which Caden replies: "It is a play about dating. It's not a play just about death. It's about everything. Dating, birth, death, life, family. All that." ^[@kaufman_2008, 01:23:40--1:24:06.] \newline
 
 As many critics have pointed out, the word Synecdoche in the title is a figure of speech in which a part stands in for the whole or vice versa (e.g., referring to cars as 'wheels' or asking someone's 'hand' in marriage). As an honest attempt to portray human life, the title's significance in the context of the film is a metafictional one. The film represents human beings and tries to make philosophical assessments of what it means to be a human as conveyed by Millicent's monologue near the end of the film:
 
 > What was once before you, an exciting and mysterious future is now behind you, lived, understood, disappointing. You realize you are not special. You have struggled into existence and are now slipping silently out of it. _This is everyone's experience. Every single one. The specifics hardly matter. Everyone is everyone._ ^[@kaufman_2008, 01:55:29--1:55:56.]
 
+The title is also a clear wordplay on the city the story takes place in, initially: Schenectady, New York.
+
 ## Characters
 
 ### Caden
 
-Caden, the protagonist of the story, is a playwright who uses art to make sense of his own choices and ways. He is characterized by a constant obsession with death, illness, and feelings of loneliness. Evident by his words to Hazel (I don't want you to be okay. I mean, I do but it rips my guts out." ^[@kaufman_2008, 00:59:29--1:00:00.]), Caden is a self-centered individual that wants to be looked at and loved, prioritizing his own good over any other's.
+Caden, the protagonist of the story, is a playwright who uses art to make sense of his own choices and ways. He is characterized by a constant obsession with death, illness, and having feelings of loneliness and unhappiness. Evident by his words to Hazel ("I don't want you to be okay. I mean, I do but it rips my guts out." ^[@kaufman_2008, 00:59:29--1:00:00.]), Caden is a self-centered individual that wants to be looked at and admired, despite prioritizing his own good over anyone else's.
 
-Meant to be representative of all human beings, Caden struggles with his own work as he's constantly reminded that others have it figured out and are wildly successful (e.g., his wife, four-year-old writer Horace Azpiazu, his daughter's step fathers).
+Meant to be representative of all human beings, Caden struggles with his own work as he's constantly reminded that others have it figured out and are wildly successful (e.g., his wife, four-year-old writer Horace Azpiazu, his daughter's stepfathers).
 
 ### Hazel
 
-Hazel is the most honest and down-to-earth character in the film. She is sexually aggressive with a suggestive sense of humor. She's devoted to Caden and never ceased to love him, but she's proud and knows when to let go, nevertheless. She is reminiscent of Pearl (Maureen Stapleton) from Woody Allen's _Interiors_ ^[@allen_1978.] with her prole outlook and unabashed conduct, compared to both Caden and Arthur's (E. G. Marshall) first wives. Yet, Hazel tries to improve herself by reading literature. In a scene from the script that did not make it to the film, she is constantly reading the first sentence from _Swann's way_ and complains to Caden, after which he advise her to "read the first line of another series of books." ^[@kaufman_2007, 15.]
+Hazel is the down-to-earth character in the film. She is sexually aggressive with a suggestive sense of humor. She's devoted to Caden and never ceased to love him, but she's proud and knows when to let go, nevertheless. She is reminiscent of Pearl (Maureen Stapleton) from Woody Allen's _Interiors_ ^[@allen_1978.] with her prole outlook and unabashed conduct, compared to both Caden and Arthur's (E. G. Marshall) first wives. Despite this, Hazel tries to improve herself by reading literature. In a scene from the script that did not make it to the film, she is constantly reading the first sentence from _Swann's way_ and complains to Caden, after which he advises her to "read the first line of another series of books." ^[@kaufman_2007, 15.]
 
 ### Claire
 
@@ -109,7 +115,7 @@ Claire is a transparent character with a fitting name. She's beautiful, but also
 
 ### Adele
 
-Adele Lack is a carefree, but cruel person who feels trapped and miserable with her first husband Caden but acts guilty about it. She's not supportive of his work and uses demeaning language to convey her dissatisfaction with him calling him a disappointment. As a painter, he work, in contrast to her husband's, is small and full of passion, while his is cold, brutal, and vast in size.
+Adele Lack is a carefree, untroubled, and bohemian, on one hand. On the other, She is miserable with her husband Caden but feels guilty about it. She's not supportive of his work and uses demeaning language to convey her dissatisfaction with him calling him a disappointment and lying in the next breathe about loving him. As a painter, her work, in contrast to her husband's, is small and full of passion, while his is cold, brutal, and vast in size.
 
 ### Olive
 
@@ -131,61 +137,11 @@ Caden and Adele's therapist. She talks in clichés, but, ultimately, maintains a
 
 Caden's stalker. Somehow, he has the ability to know what Caden thinks and seems to have a queer interest in exploring Caden's mind. He commits suicide out of love for Hazel.
 
-## Plot Analysis
-
-The story is seen through the eyes and experience of the unreliable narrator Caden Cotard. The movie fades in to a digital clock reading 7:44. As Caden wakes up at 7:45, the radio announces that it is September 22. In a seemingly single morning scene, the barely audible radio in the kitchen announces that it is October 8. When Caden steps out to get his newspaper and mail, he is surprised to find a magazine called _Attending to your Illness_ addressed to him in his mailbox. There's a full-page advertisement for 'Flurostatin TR' on the back of the magazine, the very same drug from the television infomercial in Adele's studio cleaning scene ^[@kaufman_2008, 00:26:46--00:27:12.]. In the background, Sammy, Caden's stalker, goes unnoticed. Inside, Caden starts reading his paper which is dated October 14, 2005, a single day behind the date on the radio, as if a day has already passed ^[@yms_1, 12:32--12:42.].
-
-In an apparent obsession with death, Caden misreads a piece of news about the playwright Harold Pinter, who, incidentally, dies a few months after _Synecdoche's_ release.  At the news bites section (October 17,) Caden voices the news of a deadly flu found it Turkey. By contrast, Olive protests about her green poop, proclaiming that "everything's alive." ^[@kaufman_2008, 00:03:11--00:03:26.] This is to say that when you are a child, you don't have a grasp on mortality yet. Time continue to progress in a dream-like manner: Milk expiration; Halloween announcement; November 2 at the obituaries page.
-
-While trying to shave, a faucet explodes and hits Caden's forehead. This starts a series of ailments and deteriorating bodily functions that come and go, symbolizing something every human being has to endure. It is evident that despite his hypochondria and excessive focus on his failing body, Caden outlives everyone around him. Inversely, foreshadowed in her first appearance in the film, Adele ignores her constant coughing and dies of lung cancer.
-
-At the hospital, Christmas ornament hanging in the back can be seen. In their ride back home, we see that Caden and Adele have different approaches to parenting. Much like Adele's art is tiny and grows tinier, Caden's is complicated and grows infinitely larger, the two are complete opposites.
-
-At rehearsal, Caden is at the director table. Tom is acting out a scene from _Death of a Salesman_. Originally by Arthur Miller, _Salesman_ is about the death of Willy Loman who, similarity to Caden, strives to be well like, and to be known and appreciated for his work. After an accident at the set, Tom emerges from a car and meets Caden who instructs him:
-
-> Try to keep in mind that a young person playing Willy Loman thinks he's only pretending to be at the end of a life full of despair. But the tragedy is that we know that you, the young actor, will end up in this very place of desolation. ^[@kaufman_2008, 00:10:19.]
-
-\noindent This is the first instance where Kaufman's postmodern tendencies reveal themselves. Much like the film is a representation of human life, evident by its title, this quote is directed at the reader more than it is directed at Tom.
-
-Taking a break from rehearsal, Caden exits the theater in search of a cell phone signal passing the box office where Hazel sits reading _Swann's Way_, the first volume of _In Search of Lost Time_. Caden mentions that he's searching for a signal, to which Hazel replies that the "signal's good here" ^[@kaufman_2008, 00:11:01.] as she pats her lap. She later directs Caden through a suggestive conversation revealing interest in him.
-
-At couple's therapy, the film introduces Madeline. Adele confesses that she fantasized about Caden dying so she could start a guilt-free life without him. Characteristic of other professionals and health specialist in the film, Madeline is comically constructed. She is praised as "one of the foremost psychologists in the world, a sought-after public speaker, advisor to world leaders" (Figure \ref{foremostpsychologist}) in her own website ^[@kaufman_2008, 00:28:58.], yet she speaks in clichés and platitude (e.g., "There are no terrible things to say in here, only true and false." ^[@kaufman_2008, 00:11:55.]) Madeline, also, start her lines before her client's end. This is, perhaps, to illustrate that she had had those conversations before and knows them all too well, hinting at the theme of universality of human experience the film is interested in conveying.
-
-![Madeline touted as a leading expert.\label{foremostpsychologist}](./images/out-foremostpsychologist.jpg)
-
-Adele misses Caden's premiere on the excuse that she has to work, but instead, she gets drunk with her best friend Maria. When she finally sees it, she vilifies Caden's efforts. Despite the standing ovation he receives, Caden fixates on Adele's opinion and seeks nothing but her validation.
-
-Akin to previous scenes in the film, what follows corresponds to the same erratic time passage: A morning that spans 3 or 4 months. Caden opens his newspaper on May 25, 2006 and flips to the obituaries where a person named 'D'Attilio', born in August 29, 1982, dies at the age of 24, which makes his death somewhere after August 29, 2006<!-- (Figure \ref{dattilio}) --> ^[@palakon_2012]. As the film progresses, time continues to progress sharply and more rapidly.
-
-<!-- ![D'Attilio, dead after August 29, 2006.\label{dattilio}](./images/out-dattilio.jpg) -->
-
-Following Adele's departure to Berlin with Olive, Caden starts furiously cleaning Adele's studio. Later in the film, Caden takes the role of Ellen on the basis that "[he does] like to clean."^[@kaufman_2008, 01:49:59.]. Caden is also seen cleaning random bathrooms from the warehouse.
-
-Back in therapy, Caden expresses his loneliness and desire for fulfilling Adele's vision for him. Another aspect of Madeline that is revealed is her footwear is too tight to the point that her feet has blisters. This symbolizes a professional facade Madeline tries to maintain; that even a therapist who tries to help people mediate their issues, have issues of her own. This is enforced by her reading one of her books later in the film.
-
-When Caden attempts to reach Adele by phone and she mistakes him for Ellen, the 911 operator exclaims "Ma'am?" when he calls for emergency during a seizure he has. At the hospital, Caden picks up a magazine that features Adele on the front page and scrolls to where it says:
-
-> Six months ago, Adele was an under-appreciated housewife in Eastern New York. Stuck in a dead-end marriage to a slovenly ugly-face loser, Adele Lack had big dreams for her and her then four-year-old daughter, Olive That's when her paintings got small.
-
-\noindent Inseparably, Olive's diary reads:
-
-> How I love Maria! She is so much more of a father than Caden ever was, with his drinking and unfortunate body odor and rotting teeth. I could only loathe him and perhaps pity him.
-
-\noindent Which suggests that Caden is only projecting these thoughts of his negligence and inadequacy onto his wife and daughter because he thinks they're true. How Caden walked away when Adele announced she wanted to go to Berlin with just Olive, and how he, later, apologizes to Ellen's mother for not taking his daughter for a picnic, after which he finally dies.
-
-Caden's solipsism will be overcome when Sammy takes his own life, after which Caden will have a eureka moment and start thinking of Sammy, not as an extension of himself, but as someone who had a life outside of his duties as Caden. Caden will proclaim:
-
-> I know how to do it now. There are nearly thirteen million people in the world. Try to imagine that many people! None of those people is an extra. They're all the leads of their own stories. They have to be given their due.
-
-\noindent and as a consequence, he will experience the happiest day of his life with Hazel.
-
-Caden, then, meets Claire, his lead actress on _Death of a Salesman_, to discuss her future role in his autobiographical piece where she suggested to play Hazel and is seen acting out her interaction with Caden as she was reading _Sawnn's Way_.
-
 ## Themes
 
-### The act of choosing
+### Life choices
 
-Kaufman emphasizes the idea that we face an infinite amount of choices everyday and we act upon these choices carving our past, and thus, our persons in the process. When Caden goes out with Hazel and learns of her mother's death, he ends up marrying her. Similarly, when Caden refuses to act on Madeline's advances, her books suddenly reads "I show you my leg. I stand close, and you inhale my perfume. I offer my ripe flower to you and you deny it. This book is over," ^[@kaufman_2008, 00:48:57--00:49:23.] and all subsequent pages are blank, marking the end of that timeline for Caden. This is further enforced by the minister's speech at the acting of Sammy's funeral:
+Kaufman emphasizes the idea that we face an infinite amount of choices every day and we act upon these choices carving our past, and thus, our persons in the process. When Caden goes out with Hazel and learns of her mother's death, he ends up marrying her. Similarly, when Caden refuses to act on Madeline's advances, her books suddenly reads "I show you my leg. I stand close, and you inhale my perfume. I offer my ripe flower to you and you deny it. This book is over," ^[@kaufman_2008, 00:48:57--00:49:23.] and all subsequent pages are blank, marking the end of that timeline for Caden. This is further enforced by the minister's speech at the acting of Sammy's funeral:
 
 > There are a million little strings attached to every choice you make; you can destroy your life every time you choose. But maybe you won't know for twenty years. And you'll never ever trace it to its source. And you only get one chance to play it out. Just try and figure out your own divorce. And they say there is no fate, but there is: it's what you create.
 
@@ -195,13 +151,131 @@ Kaufman emphasizes the idea that we face an infinite amount of choices everyday 
 
 Defined as the belief that only one's own mind exists. It is no coincidence that for his magnum opus, Caden wants to explore and find his 'real self.'
 
-Caden's solipsism relates every minor thing to him. He projects himself on posters (Figure \ref{poster}) and television commercials; his state of mind on magazines; and sees his own failure as a husband and father in bold text around him. Even Madeline's website's domain name he visits is "www.cadenstherapist.com" (Caden's therapist), as he only sees the therapist as _his_.
+Caden's solipsism relates every minor thing to him. He projects himself on posters and television commercials; his state of mind on magazines; and sees his own failure as a husband and father in bold text around him (see figure \ref{solipsism}). Even Madeline's web site's domain name he visits is "www.cadenstherapist.com" (Caden's therapist), as he only sees the therapist as _his_.
 
-![Caden projected onto Azpiazu's work.\label{poster}](./images/out-poster.jpg)
+\begin{figure}
+\captionsetup[subfigure]{labelformat=empty}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/caden-on-poster.jpg}
+  \caption{Caden on Azpiazu's work.}
+  \label{fig:caden-on-poster}
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/caden-on-tv.jpg}
+  \caption{Caden on television.}
+  \label{fig:caden-on-tv}
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/caden-in-website.jpg}
+  \caption{Caden quoted on Madeline's website.}
+  \label{fig:caden-in-website}
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/adele-on-magazine.jpg}
+  \caption{Magazine depicting Caden as an ugly-face loser.}
+  \label{fig:adele-on-magazine}
+\end{subfigure}
+\caption{Caden's projections.}
+\label{solipsism}
+\end{figure}
 
 Before Sammy dies, he laments Caden's solipsism saying: "I've watched you forever, Caden. But you've never really looked at anyone other than yourself." ^[@kaufman_2008, 1:39:12.] Caden's response to Sammy's suicide was directing him to 'get up'.
 
 As the film progresses, we can see glimpses of an apocalyptic reality that Caden never seems to concern himself with to the point that he has to ask where everyone is at the end of the film.
+
+## Plot Analysis
+
+The story is seen through the eyes of the unreliable narrator Caden Cotard. A fades in from a solid gray color starts the film to the sight of a digital clock waking up Caden at 7:45. The radio announces that it is September 22. In a seemingly single morning scene, time moves unusually: The barely audible radio in the kitchen announces that it is October 8; Caden starts reading a paper dated October 14, a single day behind a newly announced date on the radio, as if a day has already passed since Caden had grabbed his paper ^[@yms_1.]; News bites section indicate that it is October 17; Milk expiration; Halloween announcement; November 2 at the obituaries page (see figure \ref{morning-scene}).
+
+\begin{figure}
+\captionsetup[subfigure]{labelformat=empty}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/morning-scene-1.jpg}
+  \caption{October 14}
+  \label{fig:morning-scene-1}
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/morning-scene-2.jpg}
+  \caption{October 17}
+  \label{fig:morning-scene-2}
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/morning-scene-3.jpg}
+  \caption{October 20}
+  \label{fig:morning-scene-3}
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{./images/morning-scene-4.jpg}
+  \caption{November 2}
+  \label{fig:morning-scene-4}
+\end{subfigure}
+\caption{Rapid passage of time in a single scene.}
+\label{morning-scene}
+\end{figure}
+
+When Caden steps out to get his mail, he is surprised to find a magazine called _Attending to your Illness_ addressed to him with a full-page advertisement for _Flurostatin TR_ drug on the back of the it; the very same drug from the television infomercial in Adele's studio cleaning scene ^[@kaufman_2008, 00:26:46--00:27:12.]. Caden will later mention that he thinks he has Arthritis and a radio news report from his car will state "German pharmaceutical giant has won its libel suit against patients claiming chromosomal damage from use of the arthritis medication," ^[@kaufman_2008, 00:58:56.] which could explain Caden's transformation into Ellen at the end of the film.
+
+Inside the house in an apparent obsession with death, Caden misreads a piece of news about the playwright Harold Pinter. At the news bites section he voices the news of a deadly flu found in Turkey. By contrast, Olive protests about her green poop, proclaiming that "everything's alive." ^[@kaufman_2008, 00:03:11--00:03:26.] This illustrates how much Caden is consumed with death, and how when you are a child, you don't have a grasp on mortality yet. It's also worth mentioning that Caden only ever knows his daughter Olive as a child, and in this sense, she symbolizes life for him.\newline
+
+While trying to shave, a faucet explodes and hits Caden's forehead. This starts a series of ailments and deteriorating bodily functions that come and go, something every human being has to endure. Despite his hypochondria and excessive focus on his failing body, Caden outlives everyone around him. Inversely, foreshadowed in her first appearance in the film, Caden's wife, Adele, ignores her constant coughing and dies of lung cancer.
+
+At the hospital, Christmas ornament hanging in the back can be seen, suggesting yet another impossible time passage, exemplifying how most people postpone their medical appointment.
+
+In their ride back home, we see that Caden and Adele have different approaches to parenting, as Adele is only concerned with a comfortable, although oblivious Olive, Caden seeks to be factually correct. Moreover, Caden and Adele's opposition carries over to their art: Adele's miniature art keeps getting smaller until you need magnifying glasses to view it, whereas Caden's art grows infinitely larger ^[@interview_2013.].\newline
+
+At rehearsal, Caden is at the director table. Tom (Daniel London) is acting out a scene from _Death of a Salesman_. Originally by Arthur Miller, _Salesman_ is about the death of Willy Loman who, similar to Caden, strives to be well-liked, well-known, and appreciated for his work. After an accident at the set, Tom emerges from a car and meets Caden who instructs him:
+
+> Try to keep in mind that a young person playing Willy Loman thinks he's only pretending to be at the end of a life full of despair. But the tragedy is that we know that you, the young actor, will end up in this very place of desolation. ^[@kaufman_2008, 00:10:19.]
+
+\noindent This is the first instance where Kaufman's postmodern tendencies reveal themselves. Much like the film is a representation of human life, this quote is directed at the actor playing Tom (Daniel London) more than it is directed at Tom.
+
+Taking a break from rehearsal, Caden exits the theater in search of a cell phone signal passing the box office where Hazel sits reading _Swann's Way_, the first volume of _In Search of Lost Time_. Caden mentions that he's searching for a signal, to which Hazel replies that the "signal's good here" ^[@kaufman_2008, 00:11:01.] as she pats her lap. She later directs Caden through a suggestive conversation revealing interest in him. This hints at one of the film's themes, taking decisions in one's own life. Caden, who works as a director professionally, is in need of directions himself, unable to act on his own impulses, and will eventually be directed to die.\newline
+
+In couple's therapy, the film introduces Madeline. Characteristic of other professionals and health specialist in the film, Madeline is comically constructed. She is praised as "one of the foremost psychologists in the world, a sought-after public speaker, advisor to world leaders" (see figure \ref{foremostpsychologist}) in her own website ^[@kaufman_2008, 00:28:58.], yet she speaks in clichés and platitude (e.g., "There are no terrible things to say in here, only true and false." ^[@kaufman_2008, 00:11:55.]) Madeline, also, start her lines before her client's end. This is, perhaps, to illustrate that she had had those conversations before and knows them all too well, hinting at the theme of the universality of human experience the film is interested in conveying. Adele confesses that she fantasized about Caden dying so she could start a guilt-free life without him, expressing how broken and unsatisfactory her marriage has become. She, then, misses his premiere on the excuse that she has to work, but instead, she gets drunk with her best friend Maria. When she finally sees it, she vilifies Caden's efforts. Despite the standing ovation he receives, Caden fixates on Adele's opinion and seeks nothing but her validation.\newline
+
+![Madeline touted as a leading expert.\label{foremostpsychologist}](./images/foremostpsychologist.jpg)
+
+Akin to previous scenes in the film, what follows corresponds to the same erratic time passage: A morning that spans 3 or 4 months. Caden opens his newspaper on May 25, 2006, and flips to the obituaries where a person named 'D'Attilio', born on August 29, 1982, dies at the age of 24, which makes his death somewhere after August 29, 2006 (see figure \ref{dattilio}) ^[@palakon_2012]. In this scene, Adele, motivated by Maria, tells Caden of her intentions to go to Berlin with just Olive. Meaning that in reality, it took Adele 3 or 4 months to come to grips to leaving Caden.
+
+![D'Attilio, dead after August 29, 2006.\label{dattilio}](./images/dattilio.jpg)
+
+Following Adele's departure to Berlin with Olive, Caden starts furiously cleaning Adele's studio. Later in the film, Caden takes the role of Ellen on the basis that "[he does] like to clean."^[@kaufman_2008, 01:49:59.]. Caden is also seen cleaning random bathrooms from the warehouse. Many reviewers suggest that Caden finds salvation in cleaning, evident by the upbeat tone of the television once Caden starts cleaning (e.g., "rise and shine; lift those legs," ^[@kaufman_2008, 00:27:35]) that changes to another morbid cartoon about Caden's death that references Adele only once Caden finishes cleaning:
+
+> There’s no real way of coping\newline
+> When your parachute won’t open\newline
+> You’re going down\newline
+> You’re going down\newline
+> You fell\newline
+> Then you died\newline
+> Maybe someone cried\newline
+> But not your one-time bride
+
+Back in therapy, Caden expresses his loneliness and desire to fulfill Adele's vision for him. Another aspect of Madeline that is revealed is that her footwear is too tight to the point that her feet have blisters. This symbolizes a professional facade Madeline tries to maintain; that even a therapist who tries to help people mediate their issues has issues of her own. This is enforced by her reading one of her self-help books later in the film.
+
+Caden, then, attempts to reach Adele by phone and she mistakes him for Ellen. He goes into convulsions, and upon calling 911, the operator mistakes him for a female. At the hospital, Caden picks up a magazine that features Adele on the front page and scrolls to where it says:
+
+> Six months ago, Adele was an under-appreciated housewife in Eastern New York. Stuck in a dead-end marriage to a slovenly ugly-face loser, Adele Lack had big dreams for her and her then four-year-old daughter, Olive That's when her paintings got small.
+
+\noindent Inseparably, Olive's diary reads:
+
+> How I love Maria! She is so much more of a father than Caden ever was, with his drinking and unfortunate body odor and rotting teeth. I could only loathe him and perhaps pity him.
+
+\noindent This suggests that Caden is only projecting these thoughts of his negligence and inadequacy onto his wife and daughter, as he was the one to walk away when Adele announced she wanted to go to Berlin without trying to change her mind.
+
+
+Caden's projections and solipsism will be overcome when Sammy takes his own life, after which Caden will have a eureka moment and start thinking of Sammy, not as an extension of himself, but as someone who had a life outside of his duties as Caden \autocite[34]{devers2011}. Caden will proclaim:
+
+> I know how to do it now. There are nearly thirteen million people in the world. Try to imagine that many people! None of those people is an extra. They're all the leads of their own stories. They have to be given their due.
+
+\noindent and as a consequence, he will experience the happiest day of his life with Hazel.
 
 ## Literary references
 
@@ -217,7 +291,7 @@ The first literary reference that appears in the film is an excerpt from _Autumn
 
 \noindent The poem was analyzed by the American literary critic Philip K. Jason as follows:
 
-> _Autumn Day_ is a poem about time running out. Nature is approaching winter and must employ all of its force to produce the final fullness of fruit and vine before winter sets in. Similarly, man approaches the twilight of his own life. He feels compelled to produce all the perfection of which he is capable before his time runs out in death.[@jason]
+> _Autumn Day_ is a poem about time running out. Nature is approaching winter and must employ all of its force to produce the final fullness of fruit and vine before winter sets in. Similarly, Man approaches the twilight of his own life. He feels compelled to produce all the perfection of which he is capable before his time runs out in death.[@jason]
 
 \noindent This is reminiscent of Caden's swansong piece as he states: "I will be dying. And so will you. And so will everyone here. And that's what I wanna explore." ^[@kaufman_2008, 00:41:56--00:42:11.] Evidently, Caden never succeeds and winter (death) catches to him.
 
@@ -227,7 +301,7 @@ _Death of a Salesman_ by Arthur Miller is a love story between father and son, m
 
 > Try to keep in mind that a young person playing Willy Loman thinks he's only pretending to be at the end of a life full of despair. But the tragedy is that we know that you, the young actor, will end up in this very place of desolation. ^[@kaufman_2008, 00:10:19.]
 
-This is metafictional device, but it can also be interpreted in the context of Caden's twist on the play as to try to illustrate millennials' economical angst and the universality of emotions of helplessness across ages. Not only that, but Caden's inability to direct or take decisions, as apparent with his pleas to Hazel to tell him what to say next or what to do with his life, is resemblant of Willy's inability to take his own life or make critical decisions. For this reason, Kaufman includes the lines "Ben, where do I...? Ben, _how_ do I...?" in Caden's play. ^[@devers_2011, 34.]
+This is a metafictional device, but it can also be interpreted in the context of Caden's twist on the play to try to illustrate millennials' economical angst and the universality of emotions of helplessness across ages. Not only that but Caden's inability to direct or take decisions, as apparent with his pleas to Hazel to tell him what to say next or what to do with his life, is resemblant to Willy's inability to take his own life or make critical decisions. For this reason, Kaufman includes the lines "Ben, where do I...? Ben, _how_ do I...?" in Caden's play ^[@devers2011, 34].
 
 ### _In Search of Lost Time_
 
