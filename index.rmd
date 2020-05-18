@@ -1,17 +1,19 @@
 ---
-title: "\\emph{Synecdoche, New York}"
+title: |
+  \textbf{Synecdoche and Simulation}
+subtitle: 'subtitle'
 author: Mohamed Marhraoui
 bibliography: bib.bib
-csl: chicago/chicago-fullnote-bibliography-with-ibid.csl
 output:
   pdf_document:
     latex_engine: xelatex
+    pandoc_args: ["--biblatex"]
     number_sections: true
     toc: true
-    toc_depth: 2
-#  html_document:
 mainfont: Iosevka SS03
-abstract: "This is my abstract.\\par \\emph{Keywords:} Film Analysis; Charlie Kaufman; Postmodern film.\\thispagestyle{empty}\\newpage"
+abstract: |
+  \noindent This is my abstract.\newline
+  \emph{Keywords:} Film Analysis; Charlie Kaufman; Postmodern film. \thispagestyle{empty} \newpage
 header-includes:
   - \usepackage{setspace}
   - \doublespacing
@@ -21,7 +23,7 @@ header-includes:
   - \posttitle{\end{center}}
   - \usepackage{subcaption}
   - \usepackage{caption}
-  - \usepackage{biblatex-chicago}
+  - \usepackage[backend=biber]{biblatex-chicago}
 indent: true
 ---
 
