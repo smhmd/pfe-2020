@@ -4,4 +4,4 @@
 
 ## Abstract
 
-_Synecdoche, New York_ by Charlie Kaufman.
+The purpose of this paper is to analyze Charlie Kaufman's directorial debut, highlight the film's internal and metafictional themes, discuss the story's characters, and study its plot. This paper, also, investigates the notion of the Kaufmanesque, relate literary references made in the story to it, and discusses the representation versus reality aspect of the film from a postmodern perspective (both in form and content) through the work of Jean Baudrillard, examining Sammy Barnathan as a simulacrum for Caden Cotard.
