@@ -1,21 +1,20 @@
 ---
 title: |
-  \textbf{Synecdoche and Simulation}
+  | \vspace{2cm}\textbf{Synecdoche and Simulation}
 subtitle: |
   An Analysis of \emph{Synecdoche, New York}
-author: Mohamed Marhraoui
-date: "`r format(Sys.time(), '%B %Y')`"
+author: |
+  | \vspace{2cm} Mohamed Marhraoui
+date: |
+  | \vspace{2cm} `r format(Sys.time(), '%B %Y')`
+  | Supervised by Dr. Tarik Bouguerba
 bibliography: bib.bib
 output: #word_document
   pdf_document:
     latex_engine: xelatex
     pandoc_args: ["--biblatex"]
     number_sections: true
-    toc: true
 mainfont: Iosevka SS03
-abstract: |
-  \noindent The purpose of this paper is to analyze Charlie Kaufman's directorial debut, highlight the film's internal and metafictional themes, discuss the story's characters, and study its plot. This paper, also, investigates the notion of the Kaufmanesque, relate literary references made in the story to it, and discusses the representation versus reality aspect of the film from a postmodern perspective (both in form and content) through the work of Jean Baudrillard, examining Sammy Barnathan as a simulacrum for Caden Cotard.\newline\newline
-  \textbf{\emph{Keywords:}} Film Analysis; Charlie Kaufman; Postmodern film. \thispagestyle{empty} \newpage
 header-includes:
   - \usepackage{setspace}
   - \doublespacing
@@ -28,6 +27,20 @@ header-includes:
   - \usepackage[backend=biber]{biblatex-chicago}
 indent: true
 ---
+\thispagestyle{empty}
+\newpage
+
+\begin{abstract}
+\noindent The purpose of this paper is to analyze Charlie Kaufman's directorial debut \emph{Synecdoche, New York}; highlight the film's internal and metafictional themes; discuss the story's characters; and study its plot. This paper, also, investigates the notion of the Kaufmanesque, relate literary references made in the story to it, and discusses the representation versus reality aspect of the film from a postmodern perspective (both in form and content) through the work of Jean Baudrillard, examining Sammy Barnathan as a simulacrum for Caden Cotard.\newline\newline
+\textbf{\emph{Keywords:}} Film Analysis; Charlie Kaufman; Postmodern film.
+\end{abstract}
+
+
+\newpage
+
+\setcounter{tocdepth}{2}
+\tableofcontents
+
 \listoffigures
 
 \newpage
@@ -48,7 +61,7 @@ After its premiere at the 61^st^ Annual Cannes Film Festival on May 23, 2008, wi
 
 ## Filmmaker
 
-Charles Stuart Kaufman is an American screenwriter and director. Started as a television writer, Kaufman achieved critical acclaim and recognition for writing _Being John Malkovich_ \autocite{jonze-1999} and went on to be responsible for scripts of other distinguished films such as _Adaptation._ \autocite{jonze-2002} and _Eternal Sunshine of the Spotless Mind_ \autocite{gondry-2004}, which earned him an Academy Award in 2004.
+Charles Stuart Kaufman is an American screenwriter and director. Started as a television writer, Kaufman achieved critical acclaim and recognition for writing _Being John Malkovich_ \autocite{jonze-1999} and went on to be responsible for scripts of other distinguished films such as _Adaptation_ \autocite{jonze-2002} and _Eternal Sunshine of the Spotless Mind_ \autocite{gondry-2004}, which earned him an Academy Award in 2004.
 
 Kaufman is unique in that he is a screenwriter that is credited on an equal footing as the directors in his films if not slightly more. _Eternal Sunshine of the Spotless Mind_, for instance, is more regarded as a 'Charlie Kaufman film' than it is Michel Gondry's. Most people would have a hard time attributing Kaufman films to either Gondry or Spike Jonze, Kaufman's other lifelong collaborator, which goes to show how much of a distinctive voice he is in an increasingly non-reading world.
 
@@ -90,7 +103,7 @@ As Burgass notes that "postmodern fiction is often and appropriately characteriz
 
 ## Film as philosophy
 
-_Synecdoche, New York_ concerns itself with questions of being and the examined life (through art). And as more philosophers have become interested in discussing this century-old medium (film), a question worth asking is can a film be philosophical. According to Shaw, a film can be philosophical in three ways: (1) if it poses philosophical questions; (2) if philosophical concepts can be applied to it to better understand it; (3) if it discusses a philosophical concept, openly \autocite[112]{shaw-2006}. _Synecdoche_ is a philosophical film in the first and second ways. First, it raises questions such as, what does it mean to be me? How do I fit into the world? And, intentionally, tries to make the viewer 'less lonely' \autocite[9:20]{kaufman-2017} by providing a critique of solipsism. And secondly, the film has been discussed through an Heideggerian lens \autocite{saxena}.
+_Synecdoche, New York_ concerns itself with questions of being and the examined life (through art). And as more philosophers have become interested in discussing this century-old medium (film), a question worth asking is can a film be philosophical. According to Shaw, a film can be philosophical in three ways: (1) if it poses philosophical questions; (2) if philosophical concepts can be applied to it to better understand it; (3) if it discusses a philosophical concept, openly \autocite[112]{shaw-2006}. _Synecdoche_ is a philosophical film in the first and second ways. First, it raises questions such as, what does it mean to be me? How do I fit into the world? And, intentionally, tries to make the viewer 'less lonely' \autocite[9:20]{kaufman-2017} by providing a critique of solipsism. And secondly, the film has been discussed through a Heideggerian lens \autocite{saxena}.
 
 ## On the Kaufmanesque
 
@@ -106,7 +119,7 @@ There is no shortage of online articles and reviews trying to interpret _Synecdo
 
 > Caden Cotard is a man already dead. He lives in a half world between stasis and antistasis. And time is concentrated, chronology confused. Yet up until recently, he's strived valiantly to make sense of his situation. But now he's turned to stone. \autocite[01:45:36]{kaufman-2008}
 
-Another common interpretation of what happens in the film is the idea of Caden being in a dream. Supported by the clocks in the beginning and end of the film (see figure \ref{clocks}). Coupled with the professor on the radio talking about "the beginning of the end" and Hazel's line "The end is built into the beginning", it is clear how one might deduce a time stop between the beginning of the film and its end.
+Another common interpretation of what happens in the film is the idea of Caden being in a dream. Supported by the clocks at the beginning and end of the film (see figure \ref{clocks}). Coupled with the professor on the radio talking about "the beginning of the end" and Hazel's line "The end is built into the beginning", it is clear how one might deduce a time stop between the beginning of the film and its end.
 
 \begin{figure}
 \captionsetup[subfigure]{labelformat=empty}
@@ -134,7 +147,7 @@ _Synecdoche, New York_ has been criticized heavily for its non-traditional struc
 
 # Analysis
 
-_Synecdoche, New York_ explores themes of solipsism, time passage, and life choices. However, the most prominent theme in the film is death; even though the film itself would disagree as Sammy, Caden's own double affirms that "this is not a play about dating. It's about death," to which Caden replies: "It is a play about dating. It's not a play just about death. It's about everything. Dating, birth, death, life, family. All that." \autocite[01:23:40--1:24:06]{kaufman-2008} \newline
+_Synecdoche, New York_ explores themes of solipsism, time passage, and life choices. However, the most prominent theme in the film is death; even though the film itself would disagree as Sammy, Caden's double, affirms that "this is not a play about dating. It's about death," to which Caden replies: "It is a play about dating. It's not a play just about death. It's about everything. Dating, birth, death, life, family. All that." \autocite[01:23:40--1:24:06]{kaufman-2008} \newline
 
 As many critics have pointed out, the word Synecdoche in the title is a figure of speech in which a part stands in for the whole or vice versa (e.g., referring to cars as 'wheels' or asking someone's 'hand' in marriage). As an honest attempt to portray human life, the title's significance in the context of the film is a metafictional one. The film represents human beings and tries to make philosophical assessments of what it means to be a human as conveyed by Millicent's monologue near the end of the film:
 
@@ -148,15 +161,15 @@ The title is also a wordplay on the city the story takes place in, initially: Sc
 
 Caden, the protagonist of the story, is a playwright who uses art to make sense of his own choices and ways. He is characterized by a constant obsession with death, illness, and having feelings of loneliness and unhappiness. Evident by his words to Hazel ("I don't want you to be okay. I mean, I do but it rips my guts out." \autocite[00:59:29--1:00:00]{kaufman-2008}), Caden is a self-centered individual that wants to be looked at and admired, despite prioritizing his own good over everyone else's.
 
-Meant to be representative of all human beings, Caden struggles with his own work as he is constantly reminded that others have it figured out and are wildly successful (e.g., his wife, four-year-old writer Horace Azpiazu, his daughter's stepfathers).
+Meant to be representative of all human beings, Caden struggles with his work as he is constantly reminded that others have it figured out and are wildly successful (e.g., his wife, four-year-old writer Horace Azpiazu, his daughter's stepfathers).
 
 ### Hazel
 
-Hazel is the down-to-earth character in the film with an unabashed conduct. She is sexually aggressive with a suggestive sense of humor. She is devoted to Caden and never ceased to love him, but she is proud and knows when to let go, nevertheless. Despite her prole outlook, Hazel tries to improve herself by reading literature. In a scene from the script that did not make it to the film, she is constantly reading the first sentence from _Swann's way_ and complains to Caden, after which he advises her to "read the first line of another series of books." \autocite[15]{kaufman-2007}
+Hazel is the down-to-earth character in the film with unabashed conduct. She is sexually aggressive with a suggestive sense of humor. She is devoted to Caden and never ceased to love him, but she is proud and knows when to let go, nevertheless. Despite her prole outlook, Hazel tries to improve herself by reading literature. In a scene from the script that did not make it to the film, she is constantly reading the first sentence from _Swann's way_ and complains to Caden, after which he advises her to "read the first line of another series of books." \autocite[15]{kaufman-2007}
 
 ### Claire
 
-Claire is a transparent character with a fitting name. She is beautiful, but also naive and, by her own admission, stupid. She stars in Caden's plays, and she abundantly references works of art out of context and uses words in the wrong way (e.g., her 'Freudian slip'). Caden exploits her naivety and uses her as a placeholder for his first wife. She leaves Caden after getting fed up with his unfaithfulness.
+Claire is a transparent character with a fitting name. She is beautiful, but also naive and, by her admission, stupid. She stars in Caden's plays, and she abundantly references works of art out of context and uses words in the wrong way (e.g., her 'Freudian slip'). Caden exploits her naivety and uses her as a placeholder for his first wife. She leaves Caden after getting fed up with his unfaithfulness.
 
 ### Adele
 
@@ -176,7 +189,7 @@ Adele's cleaning lady. She stars in Caden's play and later proves to be more cap
 
 ### Madeline
 
-Caden and Adele's therapist. She, oddly, replies to her client before they finish their speech and maintains a professional, confident look. She talks in clichés and professes in product placement and plugging her own work to her clients.
+Caden and Adele's therapist. She, oddly, replies to her client before they finish their speech and maintains a professional, confident look. She talks in clichés and professes in product placement and plugging her work to her clients.
 
 ### Sammy
 
@@ -241,25 +254,25 @@ The story is seen through the eyes of the unreliable narrator Caden Cotard. A fa
 \begin{subfigure}{.5\textwidth}
   \centering
   \includegraphics[width=.8\linewidth]{./images/morning-scene-1.jpg}
-  \caption{October 14}
+  \caption{October 14.}
   \label{fig:morning-scene-1}
 \end{subfigure}
 \begin{subfigure}{.5\textwidth}
   \centering
   \includegraphics[width=.8\linewidth]{./images/morning-scene-2.jpg}
-  \caption{October 17}
+  \caption{October 17.}
   \label{fig:morning-scene-2}
 \end{subfigure}
 \begin{subfigure}{.5\textwidth}
   \centering
   \includegraphics[width=.8\linewidth]{./images/morning-scene-3.jpg}
-  \caption{October 20}
+  \caption{October 20.}
   \label{fig:morning-scene-3}
 \end{subfigure}
 \begin{subfigure}{.5\textwidth}
   \centering
   \includegraphics[width=.8\linewidth]{./images/morning-scene-4.jpg}
-  \caption{November 2}
+  \caption{November 2.}
   \label{fig:morning-scene-4}
 \end{subfigure}
 \caption{Rapid passage of time in a single scene.}
@@ -282,7 +295,7 @@ At rehearsal, Caden is at the director's table. Tom (Daniel London) is acting ou
 
 \noindent This is the first instance where Kaufman's postmodern tendencies reveal themselves. Much like the film is a representation of human life, this quote is directed at the actor playing Tom (Daniel London) more than it is directed at Tom.
 
-Taking a break from rehearsal, Caden exits the theater in search of a cell phone signal passing the box office where Hazel sits reading _Swann's Way_, the first volume of _In Search of Lost Time_. Caden mentions that he's searching for a signal, to which Hazel replies that the "signal's good here" \autocite[00:11:01]{kaufman-2008} as she pats her lap. She later directs Caden through a suggestive conversation revealing interest in him. This hints at one of the film's themes: taking decisions in one's own life. Caden, who works as a director professionally, is in need of directions himself, unable to act on his own impulses, and will eventually be directed to die.\newline
+Taking a break from rehearsal, Caden exits the theater in search of a cell phone signal passing the box office where Hazel sits reading _Swann's Way_, the first volume of _In Search of Lost Time_. Caden mentions that he's searching for a signal, to which Hazel replies that the "signal's good here" \autocite[00:11:01]{kaufman-2008} as she pats her lap. She later directs Caden through a suggestive conversation revealing interest in him. This hints at one of the film's themes: taking decisions in one's own life. Caden, who works as a director professionally, is in need of directions himself, unable to act on his impulses, and will eventually be directed to die.\newline
 
 In Couples Therapy, the film introduces Madeline. Characteristic of other professionals and health specialists in the film, Madeline is comically constructed. She is praised as "one of the foremost psychologists in the world, a sought-after public speaker, advisor to world leaders" in her own website (see figure \ref{foremostpsychologist}), yet she speaks in platitude (e.g., "There are no terrible things to say in here, only true and false." \autocite[00:11:55]{kaufman-2008}) Madeline, also, starts her lines before her client's end. This is, perhaps, to illustrate that she had had those conversations before and knows them all too well, hinting at the theme of the universality of human experience the film is interested in conveying.
 
@@ -331,13 +344,13 @@ Defining the postmodern condition as a superstitious attitude toward narratives 
 
 
 
-Baudrillard affirms that the representation becomes at the forefront with reality taking a back seat in a postmodern setting. And we can see this as Caden learns things about reality from his representative, Sammy. Not only that Sammy was the one who tracked Adele's apartment, he also, hinted at his admiration for Hazel as he was representing Caden; and from Caden's body language, we can assert that he himself did not know.
+Baudrillard affirms that the representation becomes at the forefront with reality taking a back seat in a postmodern setting. And we can see this as Caden learns things about reality from his representative, Sammy. Not only that Sammy was the one who tracked Adele's apartment, but he also, hinted at his admiration for Hazel as he was representing Caden; and from Caden's body language, we can assert that he himself did not know.
 
 Subsequently, Sammy tries to replace Caden by liking Hazel on the excuse that he was being Caden, after which Caden explains to him that "this Hazel doesn't exist for you. If you wanna like a Hazel, like that one [pointing at Hazel's double]."
 
 Much like Maher defines Kaufmanesque as a narrative in which "[the] protagonist is confronted by a metaphysically unstable world that can be redeemed only by core values such as romantic love or artistic truth." \autocite{maher-2006}, Kaufman's Caden and Hazel overcome their postmodern situation by expressing their love for one another, leading to Sammy's suicide.\newline
 
-Although Caden never finishes his play, his endeavor to uncover truth about his reality through art was not fruitless. This is, perhaps, best articulated at the end of the film where Caden walks from warehouse to warehouse at the direction of Millicent. Within each warehouse, there is less abstraction and attention to detail, but most importantly, Madelin's self-help books, scattered on the ground, become more helpless and 'real' (see figure \ref{madelines-books}), the more Caden goes deeper in his art. A review of Madeline's last book read "_i don't feel well today_ is a easily Dr. Gravis's most honest, brutal, work to date," \autocite[1:56:46]{kaufman-2008} which what Caden sets out to do with his work.
+Although Caden never finishes his play, his endeavor to uncover the truth about his reality through art was not fruitless. This is, perhaps, best articulated at the end of the film where Caden walks from warehouse to warehouse at the direction of Millicent. Within each warehouse, there is less abstraction and attention to detail, but most importantly, Madelin's self-help books, scattered on the ground, become more helpless and 'real' (see figure \ref{madelines-books}), the more Caden goes deeper in his art. A review of Madeline's last book read "_i don't feel well today_ is easily Dr. Gravis's most honest, brutal, work to date," \autocite[1:56:46]{kaufman-2008} which what Caden sets out to do with his work.
 
 \begin{figure}
 \captionsetup[subfigure]{labelformat=empty}
@@ -381,7 +394,7 @@ _Death of a Salesman_ by Arthur Miller is a love story between a father and his 
 
 > Try to keep in mind that a young person playing Willy Loman thinks he's only pretending to be at the end of a life full of despair. But the tragedy is that we know that you, the young actor, will end up in this very place of desolation. \autocite[00:10:19]{kaufman-2008}
 
-\noindent This is a metafictional device, but it can also be interpreted in the context of Caden's twist on the play to try to illustrate millennials' economical angst and the universality of emotions of helplessness across ages. Not only that, but Caden's inability to direct or take decisions, as apparent with his pleas to Hazel to tell him what to say next or what to do with his life, is resemblant to Willy's inability to take his own life or make critical decisions. For this reason, Kaufman includes the lines "Ben, where do I? Ben, _how_ do I?" in Caden's play \autocite[34]{devers-2011}.
+\noindent This is a metafictional device, but it can also be interpreted in the context of Caden's twist on the play to try to illustrate millennials' economical angst and the universality of emotions of helplessness across ages. Not only that but Caden's inability to direct or take decisions, as apparent with his pleas to Hazel to tell him what to say next or what to do with his life, is resemblant to Willy's inability to take his own life or make critical decisions. For this reason, Kaufman includes the lines "Ben, where do I? Ben, _how_ do I?" in Caden's play \autocite[34]{devers-2011}.
 
 ### _In Search of Lost Time_
 
