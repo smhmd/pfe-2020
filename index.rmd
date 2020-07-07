@@ -143,7 +143,7 @@ Lastly, Jungian psychology has been used extensively to explain Caden's transfor
 
 ## Criticism
 
-_Synecdoche, New York_ has been criticized heavily for its non-traditional structure and inaccessibility. Contrasted by _The Matrix Reloaded_ \autocite{wachowski-2003}, Jared Bauer explains that _Synecdoche_ is "more fun to think about and research than it is to watch," and that "if [Kaufman] is going to imbue [his] work with all these cryptic meanings . . . [he] got to give people something. With _The Matrix_, it's badass fight scenes. With [_Synecdoche, New York_], they give you nothing."
+_Synecdoche, New York_ has been criticized heavily for its non-traditional structure and inaccessibility. Contrasted by _The Matrix Reloaded_ \autocite{wachowski-2003}, Jared Bauer explains that _Synecdoche_ is "more fun to think about and research than it is to watch," and that "if [Kaufman] is going to imbue [his] work with all these cryptic meanings . . . [he] got to give people something. With _The Matrix_, it's badass fight scenes. With [_Synecdoche, New York_], they give you nothing." \autocite{bauer-2018}
 
 # Analysis
 
